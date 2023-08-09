@@ -1,5 +1,4 @@
 - 👋 Hi, its Deepanjhan Das
-- 👀 I’m interested in not going out of Git
 - 📫 You can reach me out via my email deepanjhan0206@gmail.com
 
 <!---
